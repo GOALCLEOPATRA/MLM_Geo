@@ -1,6 +1,6 @@
 h5py==2.10.0
 Flask==1.1.2
-waitress==1.4.4
+waitress==2.1.1
 tensorflow_gpu==1.14.0
 python_resize_image==1.1.19
 eventregistry==8.7
