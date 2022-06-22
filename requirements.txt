@@ -6,7 +6,7 @@ python_resize_image==1.1.19
 eventregistry==8.7
 torchvision==0.6.1+cpu
 torch==1.5.1+cpu
-numpy==1.18.2
+numpy==1.22.0
 Pillow==7.2.0
 scikit_learn==0.23.1
 tensorflow==2.2.0
